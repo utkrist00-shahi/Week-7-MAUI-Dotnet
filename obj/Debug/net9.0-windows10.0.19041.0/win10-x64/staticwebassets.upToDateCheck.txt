@@ -1,0 +1,9 @@
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\images\iic.jpg
+wwwroot\index.html
+D:\dotnet tutorial\MauiApp1\wwwroot\css\app.css
+D:\dotnet tutorial\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css
+D:\dotnet tutorial\MauiApp1\wwwroot\css\bootstrap\bootstrap.min.css.map
+D:\dotnet tutorial\MauiApp1\wwwroot\index.html
