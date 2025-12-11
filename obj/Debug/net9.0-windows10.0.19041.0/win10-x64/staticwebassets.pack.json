@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\iic.jpg"
     },
     {
+      "Id": "D:\\dotnet tutorial\\MauiApp1\\wwwroot\\images\\student1.jpg",
+      "PackagePath": "staticwebassets\\images\\student1.jpg"
+    },
+    {
       "Id": "D:\\dotnet tutorial\\MauiApp1\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
