@@ -8,12 +8,9 @@ D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwro
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.map.br
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\index.html.br
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.styles.css.br
-D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css.br
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.br
-D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css.gz
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.gz
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.styles.css
-D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.7k7whb7rur.bundle.scp.css
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\app.css
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\css\bootstrap\bootstrap.min.css.map
@@ -463,8 +460,6 @@ D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compr
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\xe77xd5i00-6gzpyzhau4.gz
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\75ych6u6ed-8inm30yfxf.gz
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\81s4vtvejm-kmeqsx4zfn.gz
-D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\oq58hdkxfw-7k7whb7rur.gz
-D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\qcuihj8de4-7k7whb7rur.gz
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json.cache
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
@@ -480,8 +475,6 @@ D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compr
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\xe77xd5i00-6gzpyzhau4.br
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\75ych6u6ed-8inm30yfxf.br
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\81s4vtvejm-kmeqsx4zfn.br
-D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\oq58hdkxfw-7k7whb7rur.br
-D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\qcuihj8de4-7k7whb7rur.br
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.endpoints.json
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
@@ -584,3 +577,12 @@ D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\Multi
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\iic.jpg
 D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MauiApp1.sourcelink.json
 D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\images\student1.jpg
+D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.4geebof6dl.bundle.scp.css.br
+D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.4geebof6dl.bundle.scp.css.gz
+D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\wwwroot\MauiApp1.4geebof6dl.bundle.scp.css
+D:\dotnet tutorial\MauiApp1\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\Components\Pages\Monkeys.razor.css
+D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Monkeys.razor.rz.scp.css
+D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\oq58hdkxfw-4geebof6dl.gz
+D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\qcuihj8de4-4geebof6dl.gz
+D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\oq58hdkxfw-4geebof6dl.br
+D:\dotnet tutorial\MauiApp1\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\compressed\publish\qcuihj8de4-4geebof6dl.br

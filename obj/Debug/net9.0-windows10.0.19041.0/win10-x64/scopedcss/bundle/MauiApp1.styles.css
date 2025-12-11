@@ -178,3 +178,28 @@ main[b-w4ahko8s4q] {
         overflow-y: auto;
     }
 }
+/* /Components/Pages/Monkeys.razor.rz.scp.css */
+.monkey-card[b-eg10ili35n] {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 12px !important;
+    overflow: hidden;
+}
+
+    .monkey-card:hover[b-eg10ili35n] {
+        transform: translateY(-8px);
+        box-shadow: 0 12px 25px rgba(0,0,0,0.15) !important;
+    }
+
+.card-img-top[b-eg10ili35n] {
+    height: 280px;
+    object-fit: cover;
+}
+
+.card-title[b-eg10ili35n] {
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.btn-lg i[b-eg10ili35n] {
+    margin-right: 8px;
+}

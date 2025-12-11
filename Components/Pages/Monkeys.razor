@@ -1,0 +1,54 @@
+﻿@page "/monkeys"
+<h3>Monkeys</h3>
+@if (monkeys.Count == 0)
+{
+    <div class="text-center py-5">
+        <h4 class="text-muted">No monkeys found</h4>
+    </div>
+}
+else
+{
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var monkey in monkeys)
+    {
+        <div class="col">
+            <div class="card h-100 monkey-card shadow-sm border-0">
+                <img src="@monkey.Image"
+                     class="card-img-top"
+                     alt="@monkey.Name" />
+
+                <div class="card-body">
+                    <h5 class="card-title mb-2">@monkey.Name</h5>
+                    <p class="card-text text-secondary">
+                        <i class="bi bi-geo-alt"></i> @monkey.Location
+                    </p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+}
+
+@code {
+    private List<Monkey> monkeys = new()
+    {
+        new Monkey
+        {
+            Name = "Baboon",
+            Location = "Africa & Asia",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+        },
+        new Monkey
+        {
+            Name = "Capuchin Monkey",
+            Location = "Central & South America",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg"
+        },
+        new Monkey
+        {
+            Name = "Blue Monkey",
+            Location = "Central and East Africa",
+            Image = "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg"
+        }
+    };
+}

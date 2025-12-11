@@ -132,12 +132,12 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>7k7whb7rur</Fingerprint>
-      <Integrity>R9vTFYF01J1QHJt5DWRQSaIWvkwWaoAKD96uFG4D6o4=</Integrity>
+      <Fingerprint>c878ppkwzf</Fingerprint>
+      <Integrity>nNOku8CQ3ugugLIKg090jCN7vpLm02FTrGXCwt4lPxM=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <FileLength>5481</FileLength>
-      <LastWriteTime>Wed, 10 Dec 2025 05:17:13 GMT</LastWriteTime>
+      <FileLength>5556</FileLength>
+      <LastWriteTime>Thu, 11 Dec 2025 04:12:37 GMT</LastWriteTime>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MauiApp1.styles.css'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
